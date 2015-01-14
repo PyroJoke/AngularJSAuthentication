@@ -1,0 +1,5 @@
+bin
+obj
+node_modules
+scripts/angular
+scripts/angular-route

@@ -90,7 +90,20 @@
     <Content Include="content\fonts\fontawesome-webfont.ttf" />
     <Content Include="content\fonts\fontawesome-webfont.woff" />
     <Content Include="content\fonts\FontAwesome.otf" />
+    <Content Include=".bowerrc" />
+    <Content Include="bower.json" />
     <None Include="Properties\PublishProfiles\ngauthenticationweb.pubxml" />
+    <Content Include="scripts\angular-route\.bower.json" />
+    <Content Include="scripts\angular-route\angular-route.min.js.map" />
+    <Content Include="scripts\angular-route\bower.json" />
+    <Content Include="scripts\angular-route\package.json" />
+    <Content Include="scripts\angular-route\README.md" />
+    <Content Include="scripts\angular\.bower.json" />
+    <Content Include="scripts\angular\angular.min.js.gzip" />
+    <Content Include="scripts\angular\angular.min.js.map" />
+    <Content Include="scripts\angular\bower.json" />
+    <Content Include="scripts\angular\package.json" />
+    <Content Include="scripts\angular\README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -104,6 +117,11 @@
     <Content Include="content\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="index.html" />
     <Content Include="scripts\angular-local-storage.min.js" />
+    <Content Include="scripts\angular-route\angular-route.js" />
+    <Content Include="scripts\angular-route\angular-route.min.js" />
+    <Content Include="scripts\angular\angular-csp.css" />
+    <Content Include="scripts\angular\angular.js" />
+    <Content Include="scripts\angular\angular.min.js" />
     <Content Include="scripts\authComplete.js" />
     <Content Include="scripts\loading-bar.min.js" />
     <Content Include="Web.config" />
