@@ -10,7 +10,7 @@ module.exports = function(config) {
 
     // frameworks to use
     // available frameworks: https://npmjs.org/browse/keyword/karma-adapter
-    frameworks: ['mocha-debug', 'mocha', 'sinon-cha'],
+    frameworks: ['mocha-debug', 'mocha', 'sinon-chai'],
 
 
     // list of files / patterns to load in the browser
@@ -18,6 +18,8 @@ module.exports = function(config) {
         '../AngularJSAuthentication.Web/scripts/angular/angular.js',
         'lib/angular-mocks/angular-mocks.js',
         '../AngularJSAuthentication.Web/scripts/angular-route/angular-route.js',
+        '../AngularJSAuthentication.Web/scripts/angular-local-storage.min.js',
+        '../AngularJSAuthentication.Web/scripts/loading-bar.min.js',
         '../AngularJSAuthentication.Web/app/**/*.js',
         'specs/**/*.js'
     ],
