@@ -7,7 +7,7 @@ In this fork I've added basic test harness for AngularJS application. Configured
 
 - To install node modules run "npm install" in "AngularJSAuthentication.Web.Tests" folder. Surely you should have node installed.
 
--To install bower modules run "bower install" in  "AngularJSAuthentication.Web.Tests" and "AngularJSAuthentication.Web".
+- To install bower modules run "bower install" in  "AngularJSAuthentication.Web.Tests" and "AngularJSAuthentication.Web".
 
--Also, make sure that karma cli is installed globaly. It can be done with this command "npm install -g karma-cli".
+- Also, make sure that karma cli is installed globaly. It can be done with this command "npm install -g karma-cli".
 
